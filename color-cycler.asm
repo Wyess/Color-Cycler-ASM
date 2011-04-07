@@ -514,7 +514,7 @@ lmfd	4,31,offsetforFPR,1
 addi	r1,r1,spaceToSave
 
 
-# Edit if needed
+# Edit if needed.
 _original_instruction:
 lbz	r0,1392(r27)
 
