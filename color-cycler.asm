@@ -2,7 +2,7 @@
 lis	\reg, \value@h
 ori	\reg, \reg, \value@l
 .endm
-
+ 
 /*
 int --> float conversion using red zone
 freg2 holds the constant 0x4330000080000000
