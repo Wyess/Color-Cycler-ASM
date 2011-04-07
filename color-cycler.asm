@@ -190,7 +190,6 @@ fdiv	BLUE,BLUE,CONST_255.0
 #RGB - HSL
 
 
-
 /*
 Find min and max values of R, B, G
 */
