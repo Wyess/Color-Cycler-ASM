@@ -105,7 +105,6 @@ Variables for stackframe
 .set color_index_BLUE,2
 
 
-
 /*-------------------------------------------------------------------------------*/
 
 _stackframe:
